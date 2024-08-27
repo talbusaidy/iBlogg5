@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "761867928473",
+    "firebase_url": "https://iblogg-4a3e4-default-rtdb.firebaseio.com",
+    "project_id": "iblogg-4a3e4",
+    "storage_bucket": "iblogg-4a3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761867928473:android:6ac08287b663dfc9e28908",
+        "android_client_info": {
+          "package_name": "com.example.iblogg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByg80zsox-qtqL6W8PztC2yp6ITSdy1Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
